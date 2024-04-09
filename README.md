@@ -1,4 +1,4 @@
-### Olá, meu nome é Maria Eduarda, bem vindo(a) ao meu perfil! 👋 
+### Olá, meu nome é Maria Eduarda, seja bem vindo(a) ao meu perfil! 👋 
 
 📒 Estou estudando Programação no Instituto PROA
 🍩 e adoro docinhos

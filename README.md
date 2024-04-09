@@ -34,8 +34,5 @@
 
 ![Mascagni81's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madusales&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide_title=true)
 
-### Meu primeiro Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=madusales&repo=dio-lab-open-source&theme=midnight-purple&hide_border=true)](https://github.com/MaSales08/dio-lab-open-source)
-
 ## Referências 🔍
 - [Digital Innovation One](https://www.dio.me/)

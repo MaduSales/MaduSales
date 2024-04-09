@@ -29,13 +29,13 @@
 
 ### GitHub Stats ⭐
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masales08&theme=midnight-purple&hide_border=true&hide_title=true)
+![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madusales&theme=midnight-purple&hide_border=true&hide_title=true)
 
 
-![Mascagni81's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masales08&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide_title=true)
+![Mascagni81's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madusales&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&hide_title=true)
 
 ### Meu primeiro Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=masales08&repo=dio-lab-open-source&theme=midnight-purple&hide_border=true)](https://github.com/MaSales08/dio-lab-open-source)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=madusales&repo=dio-lab-open-source&theme=midnight-purple&hide_border=true)](https://github.com/MaSales08/dio-lab-open-source)
 
 ## Referências 🔍
 - [Digital Innovation One](https://www.dio.me/)

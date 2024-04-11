@@ -11,7 +11,6 @@
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](www.linkedin.com/in/maria-eduarda-de-sales-78a04221b)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=7300AB)](https://github.com/EricaMacenahttps://github.com/MaSales08olor=white)
 [![Gmail](https://img.shields.io/badge/maria.esmiranda08@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 ## 

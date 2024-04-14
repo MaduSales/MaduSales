@@ -1,4 +1,4 @@
-### Olá, meu nome é Maria Eduarda, seja bem vindo(a) ao meu perfil! 👋  ![Imagem do WhatsApp de 2024-03-18 à(s) 13 00 48_e75bf9cb](https://github.com/MaduSales/MaduSales/assets/166547195/79d7767f-7ab2-483a-a194-b22e7ca6fdb5)
+### Olá, meu nome é Maria Eduarda, seja bem vindo(a) ao meu perfil! 👋 
 
 📒 Estou estudando Programação no Instituto PROA
 🍩 e adoro docinhos

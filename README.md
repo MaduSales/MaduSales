@@ -10,7 +10,7 @@
 
 ##
 
-### Conecte-se comigo:
+### 🔗 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](www.linkedin.com/in/maria-eduarda-de-sales-78a04221b)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](https://www.instagram.com/dud4_dxz_/)
 [![Gmail](https://img.shields.io/badge/maria.esmiranda08@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)

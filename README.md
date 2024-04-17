@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/maria.esmiranda08@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 ## 
-### Tecnologias que estou estudando 🖥 
+### 🖥  Tecnologias que estou estudando
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)

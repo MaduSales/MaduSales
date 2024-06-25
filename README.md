@@ -1,4 +1,4 @@
-### Olá, meu nome é Maria Eduard e fico muito feliz de ter você por aqui! 👋 
+### Olá, meu nome é Maria Eduardq e fico muito feliz de ter você por aqui! 👋 
 
 📒 Estou estudando Programação no Instituto PROA
 🍩 e adoro docinhos

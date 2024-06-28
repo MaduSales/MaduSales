@@ -1,6 +1,6 @@
 ### Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
 
-📒 Estou estudando Programação no Instituto PROA
+📒 Estou estudando Programação no Instituto PROA.
 🍩 e adoro docinhos
 
 

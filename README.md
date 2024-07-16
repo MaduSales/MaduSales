@@ -3,7 +3,7 @@
 📒 Estou estudando Programação pelo programa Oracle ONE, 🔵 sou ex-Proana da turma de 2024
 🍩 e adoro docinhos
 
-
+📚 Sou uma desenvolvedora web que ama estudar
 
 
 "A vida é curta, mas as emoções que podemos deixar duram uma eternidade." - Clarice Lispector 

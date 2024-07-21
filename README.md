@@ -1,6 +1,6 @@
 ### Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
 
-📒 Estou estudando Programação pelo programa Oracle ONE, 🔵 sou ex-Proana da turma de 2024
+📒 Estou estudando Programação pelo programa Oracle Next Education, 🔵 sou ex-Proana da turma de 2024
 🍩 e adoro docinhos
 
 📚 Sou uma desenvolvedora web que ama estudar

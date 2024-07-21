@@ -2,6 +2,8 @@
 
 📒 Estou estudando Programação pelo programa Oracle Next Education, 🔵 sou ex-Proana da turma de 2024
 🍩 e adoro docinhos
+</br>
+</br>
 
 📚 Sou uma desenvolvedora web que ama estudar
 

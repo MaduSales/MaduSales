@@ -1,9 +1,7 @@
 ### Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
+</br></br>
 
 📒 Estou estudando Programação pelo programa Oracle Next Education
-</br>
-</br>
-🔵 Sou ex-Proana da turma de 2024
 </br>
 </br>
 🔻 Sou Técnica em Desenvolvimento de Sistemas no SENAI pela Companhia Paulista de Trens e Metrôs (CPTM).

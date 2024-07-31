@@ -1,5 +1,5 @@
 ### Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
-</br></br>
+</br>
 
 📒 Estou estudando Programação pelo programa Oracle Next Education
 </br>

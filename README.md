@@ -2,9 +2,11 @@
 
 📒 Estou estudando Programação pelo programa Oracle Next Education
 </br>
+</br>
 🔵 Sou ex-Proana da turma de 2024
 </br>
-🔻 Sou aprendiz SENAI pela Companhia Paulista de Trens e Metrôs (CPTM).
+</br>
+🔻 Sou Técnica em Desenvolvimento de Sistemas no SENAI pela Companhia Paulista de Trens e Metrôs (CPTM).
 </br>
 </br>
 

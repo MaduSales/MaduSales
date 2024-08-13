@@ -4,7 +4,7 @@
 📒 Estou estudando Programação pelo programa Oracle Next Education
 </br>
 </br>
-🔻 Sou Técnica em Desenvolvimento de Sistemas no SENAI pela Companhia Paulista de Trens Metropolitanos (CPTM).
+🔻 Sou Técnica em Desenvolvimento de Sistemas no SENAI por ser aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
 </br>
 </br>
 

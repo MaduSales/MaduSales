@@ -10,6 +10,7 @@
 🚂 Aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
 </br>
 </br>
+</br>
 
 📚 Sou uma desenvolvedora web que ama estudar
 

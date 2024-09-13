@@ -1,10 +1,11 @@
 ### Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
 </br>
 
-📒 Estou estudando Programação pelo programa Oracle Next Education
+📒 Estou estudando Programação Backend pelo programa Oracle Next Education
 </br>
 </br>
-🔻 Sou Técnica em Desenvolvimento de Sistemas no SENAI por ser aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
+🔻 Técnica em Desenvolvimento de Sistemas no SENAI 
+🚂 Aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
 </br>
 </br>
 

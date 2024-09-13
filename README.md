@@ -5,6 +5,8 @@
 </br>
 </br>
 🔻 Técnica em Desenvolvimento de Sistemas no SENAI 
+</br>
+</br>
 🚂 Aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
 </br>
 </br>

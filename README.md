@@ -31,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![Java](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=java&logoColor=30A3DC)
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=30A3DC) 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-black?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=E94D5F)

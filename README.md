@@ -1,10 +1,13 @@
 ## Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
 </br>
 
-💚📚 Me formei como Desenvolvedora Backend pelo programa Oracle Next Education
+💚📚 Me formei como Desenvolvedora Back-End pelo programa Oracle Next Education
 </br>
 </br>
 💙📚 Cursei Desenvolvimento de Sistemas no Senac
+</br>
+</br>
+📊 Atuei como Desenvolvedora Front-end no projeto AutonoMy do Instituto PROA
 </br>
 </br>
 🔻 Técnica em Desenvolvimento de Sistemas no SENAI 

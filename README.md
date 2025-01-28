@@ -26,7 +26,7 @@
 ##
 
 ### 🔗 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7300AB)](https://www.linkedin.com/in/mariaeduardasales)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mariaeduardasales)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=7300AB)](https://www.instagram.com/dud4_dxz_/)
 [![Gmail](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=7300AB)](mailto:maria.mirandadev@gmail.com)
 

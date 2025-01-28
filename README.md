@@ -15,7 +15,7 @@
 📚 Sou uma desenvolvedora web que ama estudar
 
 
-"A vida é curta, mas as emoções que podemos deixar duram uma eternidade." - Clarice Lispector 
+> "A vida é curta, mas as emoções que podemos deixar duram uma eternidade." - Clarice Lispector 
 
 ##
 

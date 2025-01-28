@@ -7,10 +7,10 @@
 💙📚 Cursei Desenvolvimento de Sistemas no Senac
 </br>
 </br>
-📊 Atuei como Desenvolvedora Front-end no projeto AutonoMy do Instituto PROA
-</br>
-</br>
 🔻 Técnica em Desenvolvimento de Sistemas no SENAI 
+</br>
+</br>
+📊 Atuei como Desenvolvedora Front-end no projeto AutonoMy do Instituto PROA
 </br>
 </br>
 🚂 Programadora de Sistemas de Informação na Companhia Paulista de Trens Metropolitanos (CPTM).

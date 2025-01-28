@@ -1,7 +1,10 @@
-# Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
+## Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
 </br>
 
-📒 Estou estudando Programação Backend pelo programa Oracle Next Education
+💚📚 Me formei como Desenvolvedora Backend pelo programa Oracle Next Education
+</br>
+</br>
+💙📚 Cursei Desenvolvimento de Sistemas no Senac
 </br>
 </br>
 🔻 Técnica em Desenvolvimento de Sistemas no SENAI 

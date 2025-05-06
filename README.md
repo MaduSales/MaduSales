@@ -17,7 +17,9 @@
 </br>
 </br>
 </br>
-
+🎯 Cursando Sistemas de Informação na UNINTER
+</br>
+</br>
 📚 Sou uma desenvolvedora web que ama estudar
 
 

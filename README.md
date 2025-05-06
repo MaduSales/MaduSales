@@ -16,7 +16,7 @@
 🚂 Programadora de Sistemas de Informação na Companhia Paulista de Trens Metropolitanos (CPTM).
 </br>
 </br>
-🎯 Cursando Sistemas de Informação na UNINTER
+🎯 Cursando Bacharelado em Sistemas de Informação pela UNINTER
 </br>
 </br>
 </br>

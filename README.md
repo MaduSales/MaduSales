@@ -1,6 +1,3 @@
-## Olá, meu nome é Maria Eduarda e fico muito feliz de ter você por aqui! 👋 
-</br>
-
 💚📚 Me formei como Desenvolvedora Back-End pelo programa Oracle Next Education
 </br>
 </br>
